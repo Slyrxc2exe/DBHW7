@@ -24,6 +24,9 @@ style.css → Basic layout styling
 🔗 Hosted on InfinityFree:  
 👉 [https://project7security.infinityfreeapp.com/Project7/login.php](https://project7security.infinityfreeapp.com/Project7/login.php)
 
+Username: admin
+Password: admin123
+
 ## Author
 Suad Huseynli, Mustafa Zeynalli – Constructor University  
 Fall 2025 — Databases Course Project 7
